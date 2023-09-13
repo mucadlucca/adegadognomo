@@ -72,6 +72,10 @@ section {
   margin-top: 24px
 }
 
+.address {
+  text-decoration: none;
+}
+
 .info {
   width: 100%;
   max-width: 600px;
@@ -93,7 +97,7 @@ svg {
   margin: 0 32px;
 }
 
-a {
+.social {
   display: flex;
   flex-direction: column;
   align-items: center;
